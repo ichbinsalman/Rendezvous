@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "356313208014",
+    "firebase_url": "https://rendezvous-a712c.firebaseio.com",
+    "project_id": "rendezvous-a712c",
+    "storage_bucket": "rendezvous-a712c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356313208014:android:ee43ce56716b1adf",
+        "android_client_info": {
+          "package_name": "com.example.folio9470m.rendezvous_re"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356313208014-jo9m4skq98bb9of6uqdorga75iclihl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.folio9470m.rendezvous_re",
+            "certificate_hash": "846fbd3e9be73b0dbdbeebcbf23da743ccffd02b"
+          }
+        },
+        {
+          "client_id": "356313208014-qhjlhh88fg4vgrv0ngljei7t663g8c6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdHULPfCaWLW997KwsNdzzH_3msQEqYss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356313208014-qhjlhh88fg4vgrv0ngljei7t663g8c6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
